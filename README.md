@@ -15,7 +15,8 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- A developer from Palestine 🇵🇸🇵🇸🇵🇸
+- A developer from Palestine ![image](https://user-images.githubusercontent.com/41828195/220903537-b6e36ec2-a30d-4ec6-a004-dae5458d311c.png)
+
 
 
 <h3 align="left">Connect with me:</h3>
