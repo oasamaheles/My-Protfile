@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Osama Hillis</h1>
 <img src="https://il.linkedin.com/in/osama-heles-099388290" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="GitHub - rudrabarad/Gifs: Collection of some Coding / Programming Gifs that  can be used in Special Repository" data-noaft="1" style=" width: 1000px; height: 300px; margin: 168.75px 0px;">
 
-<h3 align="center">A Developer from Palestine</h3>
+<h3 align="center">A Quality Assurance  Engineer and Application Developer from Palestine</h3>
 <img src="https://avatars.hsoubcdn.com/91b0651dfc6368928100501dabbcbb96?s=256" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Top Benefits of Hiring Offshore App Developers" data-noaft="1" style="width: 450px; height: 225px; margin: 206.25px 0px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oasamaheles&label=Profile%20views&color=0e75b6&style=flat" alt="oasamaheles" /> </p>
 
